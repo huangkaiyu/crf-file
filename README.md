@@ -1,0 +1,1 @@
+This is my crf files for study in crf, It will create a chinese word segmentation in details
